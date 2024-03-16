@@ -1,6 +1,6 @@
 # Bike sharing in London
 
-This repository contains a statistical analysis of the [`london-bike-sharing-dataset`](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset) dataset, implemented in R.
+This repository contains a statistical analysis of the [`london-bike-sharing-dataset`](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset), implemented in R.
 
 The code was developed for the course "Models and Methods for Statistical Inference" at PoliMI in the academic year 2022-2023, spring semester.
 
