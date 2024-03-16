@@ -4,7 +4,7 @@ This repository contains a statistical analysis of the [`london-bike-sharing-dat
 
 The code was developed for the course "Models and Methods for Statistical Inference" at PoliMI in the academic year 2022-2023, spring semester.
 
-Check out the final presentation here: [`IT_presentazione.pdf`](./IT_presentazione.pdf).
+Check out the final presentation here: [`IT_presentazione.pdf`](./IT_presentazione.pdf).\
 An English version is available here: [`EN_presentation.pdf`](./EN_presentation.pdf).
 
 Final grade: 3/3.
